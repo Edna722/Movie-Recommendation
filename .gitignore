@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.pytest_cache
+.gitattributes
+!*.zip
+<<<<<<< HEAD
+Microsoft Film Project.ipynb
+=======
+Microsoft Film Project.ipynb
+README.md
+CONTRIBUTING.md
+LICENSE.md
+>>>>>>> 72b1a864f95aa6d67f25ba415ffa03244b83d6b8
