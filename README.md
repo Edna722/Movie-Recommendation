@@ -1,5 +1,5 @@
 # Microsoft-Movie-Genre Recommendation
-![Movie_Time!!](/C:\Users\SHIKU\Desktop\New folder (2)/istockphoto-1202770121-612x612.jpg)
+![istockphoto-1202770121-612x612](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/istockphoto-1202770121-612x612.jpg)
 
 ## Overview
 
