@@ -119,11 +119,10 @@ These would be the to releases that can generate a high income:
 
 ## 6.  Repository structure
 ```
-├── data                                        <- Both sourced externally
-├── images                                      <- Both sourced externally and generated from code
+├── zippedData                                        <- Both sourced externally
+├── New Folder (2)                              <- Both sourced externally and generated from code as images
 ├── README.md                                   <- The top-level README for reviewers of this project
-├── Writeup.pdf                                 <- PDF version of the write up
-├── microsoft_movie_analysis.ipynb              <- Narrative documentation of analysis in Jupyter notebook
-├── notebook.pdf                                <- PDF version of Jupyter notebook
+├── microsoft_film_project.ipynb              <- Narrative documentation of analysis in Jupyter notebook
+├── github.pdf                                <- PDF version of Jupyter notebook
 ├── presentation.pdf                            <- PDF version of project presentation
 ```
