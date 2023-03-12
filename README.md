@@ -43,22 +43,22 @@ statement with the visuals.
 ## Results 
 
 The highest profit made 
-![blob](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/blob.jpg)
+![highest_profit](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/highest_profit.jpg)
 
 The companys focal point
-![blob (1)](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/blob (1).jpg)
+![top_focus](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/top_focus.jpg)
 
 Movies that brought the highet income
-![download (4)](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/download (4).png)
+![top_20_movies](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/top_20_movies.png)
 
 Top Studios Microsoft can work with.
-![download (5)](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/download (5).png)
+![top_studios](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/top_studios.png)
 
 Correlation
-![download (2)](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/download (2).png)
+![correlation](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/correlation.png)
 
 Skewerness and Kurtosis
-![download (3)](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/download (3).png)
+![skewerness_kurtosis](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/skewerness_kurtosis.png)
 
 ## Conclusion
 ### Microsoft recommendation for the new movie studio would be:
