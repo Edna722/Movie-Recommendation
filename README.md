@@ -1,5 +1,4 @@
 # Microsoft-Movie-Genre Recommendation
-
 ![Movie_Time!!](istockphoto-1202770121-612x612.jpg)
 
 ## Overview
@@ -44,16 +43,15 @@ statement with the visuals.
 ## Results 
 
 The highest profit made 
-![Highest Profit](blob.jpg)
-
+![Highest Profit](H:\Phase Project\dsc-phase-1-project-v2-4\New folder (2)\blob.jpg)
 The companys focal point
-![What the company can focus on](blob (1).jpg)
+![What the company can focus on](H:\Phase Project\dsc-phase-1-project-v2-4\New folder (2)\blob (1).jpg)
 
 Movies that brought the highet income
-![High Income Movies](download (4).png)
+![High Income Movies](H:\Phase Project\dsc-phase-1-project-v2-4\New folder (2)\download (4).png)
 
 Top Studios Microsoft can work with.
-![Top studios](download (5).png)
+![Top studios](H:\Phase Project\dsc-phase-1-project-v2-4\New folder (2)\download (5).png)
 
 ## Conclusion
 ### Microsoft recommendation for the new movie studio would be:
