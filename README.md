@@ -43,16 +43,21 @@ statement with the visuals.
 ## Results 
 
 The highest profit made 
-![Highest Profit](C:\Users\SHIKU\Desktop\New folder (2)/New folder (2)/blob.jpg)
+![highest_profit](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/highest_profit.jpg)
 The companys focal point
-![What the company can focus on](C:\Users\SHIKU\Desktop\New folder (2)/blob(1).jpg)
+![top_focus](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/top_focus.jpg)
 
 Movies that brought the highet income
-![High Income Movies](C:\Users\SHIKU\Desktop\New folder (2).png)
+![top_20_movies](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/top_20_movies.png)
 
 Top Studios Microsoft can work with.
-![Top studios](C:\Users\SHIKU\Desktop\New folder (2).png)
+![top_studio](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/top_studio.png)
 
+Correlation
+![correlation](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/correlation.png)
+
+Skewerness and Kurtosis
+![skewerness_kurtosis](https://raw.githubusercontent.com/Edna722/Movie-Recommendation/master/New%20folder%20(2)/skewerness_kurtosis.png)
 ## Conclusion
 ### Microsoft recommendation for the new movie studio would be:
 ##### 1. Genre Recommendation
